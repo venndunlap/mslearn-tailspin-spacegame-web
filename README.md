@@ -1,3 +1,5 @@
+[![Build Status](https://nicholasdunlap-banner.visualstudio.com/Space%20Game/_apis/build/status/venndunlap.mslearn-tailspin-spacegame-web?branchName=master)](https://nicholasdunlap-banner.visualstudio.com/Space%20Game/_build/latest?definitionId=3&branchName=master)
+
 
 # Contributing
 
